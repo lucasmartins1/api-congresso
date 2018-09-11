@@ -1,0 +1,22 @@
+{
+  "name": "api-congresso",
+  "version": "1.0.0",
+  "description": "API para Congressos da Ordem DeMolay",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasmartins1/api-congresso.git"
+  },
+  "author": "Lucas Martins V. Ribeiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasmartins1/api-congresso/issues"
+  },
+  "homepage": "https://github.com/lucasmartins1/api-congresso#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
